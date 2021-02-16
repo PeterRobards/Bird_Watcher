@@ -57,7 +57,7 @@ under the Usage section.
 ## Python
 
 Python 3 is essential for running this program and we also suggest setting a python virtual environment
-(venv) or (pipenv) when running this tool in order to keep your digital forensic workspace isolated.
+(venv) or (pipenv) when running this tool in order to keep your workspace isolated.
 
 If you already know you have an appropriate version of Python installed on your system, you can skip to Usage
 
