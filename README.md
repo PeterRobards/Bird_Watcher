@@ -4,7 +4,7 @@ This repository contains a set of Python tools developed to facilitate the colle
 based on a list of user provided key words/phrases. This project is built around the Tweepy library
 and is designed to collect the raw json data of any tweet containing one of the provided search terms.
 The file `api_config.py` can be used to quickly generate and API object with any tweepy based project. 
-A secondary script is included: 'process_tweets.py' which will quickly extract pertinent data from the
+A secondary script is included: `process_tweets.py` which will quickly extract pertinent data from the
 raw json twitter data relating specifically to the user (along with the text, location, and key identifiers)
 and store that data in csv format for later use with other programs. 
 
