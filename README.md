@@ -343,7 +343,9 @@ $ python -m pip install tweepy
 
 Once you have generated the API credentials and installed this one key library using this program is fairly straight forward.
 
-## Usage 'get_tweets.py'
+## Usage
+
+### 'get_tweets.py'
 
 The first step in using these tools is to export your Twitter Application Credentials as environment variables so
 that these tools can properly interface with the Twitter API. Open up your terminal and activate you virtual environment
@@ -522,7 +524,7 @@ Upon seeing the above, this program should be working as intended and will conti
 listenning for tweets that match the provided search terms and saving them in the designated out file.
 To terminate the program early you can either kill the process or perform a keyboard interrupt.
 
-## Usage 'process_tweets.py'
+### 'process_tweets.py'
 
 The first step in using these tools is to export your Twitter Application Credentials as environment variables so
 that these tools can properly interface with the Twitter API. Open up your terminal and activate you virtual environment
