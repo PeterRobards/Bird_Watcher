@@ -52,14 +52,14 @@ By selecting the Keys and tokens tab, you can generate and copy your Application
 for use with this project.
 
 After generating the credentials, save them somewhere secure - we will touch on how integrate them into this project
-under the Usage section. 
+under the [Usage](#usage) section. 
 
 ## Python
 
 Python 3 is essential for running this program and we also suggest setting a python virtual environment
 (venv) or (pipenv) when running this tool in order to keep your workspace isolated.
 
-If you already know you have an appropriate version of Python installed on your system, you can skip to Usage
+If you already know you have an appropriate version of Python installed on your system, you can skip to [Usage](#usage).
 
 If you know you're missing Python3, you can find download the appropriate package for your OS via the link below.
 If you're unsure, or you have never installed Python before check out the next section about installing python.
