@@ -274,16 +274,16 @@ pip will install packages into that specific environment and you’ll be able to
 Included in this repository should be a 'requirements.txt' file, with the required libraries formatted as shown below.
 
 ```
-certifi==2020.12.5
-chardet==4.0.0
-idna==2.10
-oauthlib==3.1.0
+certifi==2022.9.24
+chardet==5.0.0
+idna==3.4
+oauthlib==3.2.1
 PySocks==1.7.1
-requests==2.25.1
-requests-oauthlib==1.3.0
-six==1.15.0
-tweepy==3.10.0
-urllib3==1.26.3
+requests==2.28.1
+requests-oauthlib==1.3.1
+six==1.16.0
+tweepy==4.10.1
+urllib3==1.26.12
 
 ```
 
